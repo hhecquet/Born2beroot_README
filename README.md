@@ -25,10 +25,10 @@ What I had to do:
 
 Bonus Part: Hardening & Services
 * For the bonus, I extended the project by:
-* Enforcing stricter password rules (via PAM) and expiration policies
-* Limiting SSH access to specific users and IP ranges
-* Installing and configuring additional tools (e.g., fail2ban for brute-force protection)
-* Exploring the use of apt audit or Lynis for further system hardening
+  * Enforcing stricter password rules (via PAM) and expiration policies
+  * Limiting SSH access to specific users and IP ranges
+  * Installing and configuring additional tools (e.g., fail2ban for brute-force protection)
+  * Exploring the use of apt audit or Lynis for further system hardening
 
 What I Learned:
 * How to install and configure a Linux system from scratch
